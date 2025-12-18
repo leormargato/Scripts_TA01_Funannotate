@@ -3,7 +3,7 @@ Scripts para automatização da pipeline de montagem e genomica comparativa com 
 
 ## 🚀 Funcionalidades
 
-Os scripts automatizam o processamento dos arquvivos de sequenciamento genômico com Illumina para a posterior análise com a pipeline do *Funannotate*.
+Os scripts automatizam o processamento dos arquivos de sequenciamento genômico com Illumina para a posterior análise com a pipeline do *Funannotate*.
 
 ## 📖 Como Usar
 
